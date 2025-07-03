@@ -71,8 +71,9 @@ Used for:
 
 ---
 
-## 🏗️ Project Structure
+## 📂 Project Structure
 
+```
 ├── FinalProject.Rproj
 ├── Project(sda).ipynb
 ├── README.md
@@ -82,6 +83,8 @@ Used for:
 ├── final-project-r-program-pivot-and-dashboard.pdf
 ├── job_fraud.zip
 ├── rpogpart(knit pdf file).pdf
+```
+
 
 ---
 
