@@ -124,10 +124,10 @@ Used for:
 
 ## 🏆 Project Outcomes (STAR Format)
 
-- **Analyzed** an imbalanced dataset of ~18,000 postings (**Situation**) to detect fraud (**Task**) by building a Random Forest model in Python (**Action**) achieving **96% accuracy** (**Result**).
-- **Faced** vague, incomplete descriptions (**Situation**) requiring pattern discovery (**Task**), performed EDA with WordClouds and violin plots (**Action**) to uncover fraud indicators (**Result**).
-- **Identified** the need for clear fraud visualization (**Situation**) for stakeholders (**Task**), developed an R Shiny dashboard (**Action**) enabling interactive exploration (**Result**).
-- **Encountered** significant missing values and outliers (**Situation**) needing cleanup (**Task**), applied imputation and IQR filtering (**Action**) to create a reliable dataset (**Result**).
+- **Analyzed** an imbalanced dataset of ~18,000 postings to detect fraud by building a Random Forest model in Python, achieving **96% accuracy**.
+- **Faced** vague, incomplete descriptions requiring pattern discovery, performed EDA with WordClouds and violin plots to uncover fraud indicators.
+- **Identified** the need for clear fraud visualization for stakeholders, developed an R Shiny dashboard enabling interactive exploration.
+- **Encountered** significant missing values and outliers needing cleanup, applied imputation and IQR filtering to create a reliable dataset.
 
 ---
 
